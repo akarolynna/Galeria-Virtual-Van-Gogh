@@ -1,0 +1,37 @@
+[
+    {
+        "title" :" " ,
+        "imagem":" " ,
+        "publicacao":" " ,
+        "descricao":" ",
+        "creditos-imagem":" "
+    },
+    {
+        "title" : " O Quarto " ,
+        "imagem": "./style/img/o-quarto.jpg" ,
+        "publicacao":"(1853 - 1890), Arles, Outubro 1888" ,
+        "descricao":"Durante sua estadia em Arles, Van Gogh pintou o seu quarto na Casa Amarela, que ele mesmo arrumou com móveis simples e decorou com suas próprias obras. As cores vibrantes foram escolhidas para transmitir uma sensação de 'descanso' e 'sono'. Mas, ao olharmos para essa pintura, não podemos deixar de refletir: como os espaços que habitamos moldam nossas emoções e nosso estado de espírito? Van Gogh, em sua busca por tranquilidade, transformou seu quarto em um refúgio pessoal, onde a arte e a simplicidade se entrelaçam. Estudo revela que as cores contrastantes, que vemos hoje, foram alteradas pela descoloração ao longo do tempo, fazendo com que as paredes e portas, inicialmente roxas, parecessem azuis. O ângulo da parede de fundo, que parece estranho, na verdade reflete a forma real da sala, que era torta. Embora a perspectiva não siga as regras tradicionais, isso foi uma escolha consciente de Van Gogh. Em uma carta a seu irmão Theo, ele explicou que optou por 'achatar' o ambiente e eliminar sombras para imitar a estética das gravuras japonesas. Van Gogh ficou particularmente satisfeito com a obra, dizendo que, após sua recuperação, o que mais lhe agradou nas telas era justamente essa pintura do seu quarto ",
+        "creditos-imagem":"https://www.freepik.com/premium-ai-image/cozy-simple-oil-paint-bedroom-scene-filled-with-rustic-furniture_59950006.htm#fromView=search&page=1&position=18&uuid=11cb383b-2ba8-46be-b021-e080ae45e61f&new_detail=true "
+    },
+    {
+        "title" :" A Noite Estrelada " ,
+        "imagem":"./style/img/noiteEstrelada.avif" ,
+        "publicacao":" Saint-Rémy-de-Provence, 1889 " ,
+        "descricao":" A noite Estrelada é uma das pinturas mais célebres de Vincent van Gogh, criada em 1889, enquanto ele se recuperava em um hospital psiquiátrico em Saint-Rémy-de-Provence. A obra retrata uma paisagem noturna vista da janela do quarto do artista, com uma visão exagerada e imaginativa do céu estrelado. Van Gogh usou cores vibrantes e pinceladas expressivas para capturar a energia dinâmica do céu, onde as estrelas e a lua se tornam quase palpáveis, em movimento constante. Ao mesmo tempo, a tranquilidade da vila abaixo, com suas casas e a torre da igreja, oferece um contraste com a intensidade do céu. O turbilhão de formas e cores pode ser interpretado como uma representação da turbulência emocional de Van Gogh, mas também como uma busca por harmonia entre o natural e o subjetivo. A famosa espiral das estrelas transmite uma sensação de vastidão e de sonho, em uma obra que não é apenas uma paisagem, mas uma visão pessoal e poética do universo. ",
+        "creditos-imagem":"https://www.freepik.com/premium-ai-image/painting-night-sky-with-ship-background_215810613.htm#fromView=search&page=1&position=29&uuid=c1cbbd95-4880-412b-8fd4-3a42cb9ef070&new_detail=true"
+    },
+    {
+        "title" :"A colheita" ,
+        "imagem":"./style/img/a-colheita.jpg" ,
+        "publicacao":"(1853 - 1890), Arles, June 1888" ,
+        "descricao":"Nesta pintura, é quase possível sentir o calor e a aridez da paisagem plana ao redor de Arles, no sul da França. Van Gogh combinou o azul intenso do céu com os tons de amarelo e verde das terras para capturar a atmosfera de um dia de verão. Ele trabalhou nos campos de trigo durante dias sob o sol escaldante, produzindo intensamente. Esse foi um período de grande produtividade, no qual completou dez pinturas e cinco desenhos em pouco mais de uma semana, até que uma tempestade forte interrompesse a colheita. Van Gogh queria mostrar a vida dos camponeses e o trabalho no campo – um tema recorrente em sua arte – e pintou várias etapas da colheita. Na obra, vemos um campo de trigo parcialmente cortado, escadas e várias carroças. Um ceifador trabalha ao fundo, o que explica o título da pintura, La Moisson ou A Colheita. Van Gogh considerava essa obra uma das mais bem-sucedidas, escrevendo para seu irmão Theo que a tela supera todas as outras.",
+        "creditos-imagem":"https://www.freepik.com/free-ai-image/farm-lifestyle-digital-art_206501005.htm#fromView=search&page=1&position=4&uuid=e39e9c8d-ccc8-4ff9-8af5-ed49f3e10e77&new_detail=true"
+    },
+    {
+        "title" :"Barcos de pesca na praia de Les Saintes-Maries-de-la-Mer" ,
+        "imagem":"./style/img/Fishing Boats on the Beach at Les Saintes-Maries-de-la-Mer.jpg" ,
+        "publicacao":"(1853 - 1890), Arles, June 1888" ,
+        "descricao":"Você consegue perceber por que os barcos dos pescadores parecem um pouco irreais? Em comparação com a superfície irregular da praia de areia, eles foram pintados de maneira excessivamente bidimensional. Os barcos são formados por áreas de cores uniformes dentro de contornos fortes. Além disso, eles não projetam sombras sobre a areia. Esses elementos estilísticos eram familiares para Van Gogh, vindos de sua coleção de gravuras japonesas. Van Gogh teria preferido pintar essa cena diretamente na praia, mas não pôde, pois os pescadores saíam para o mar muito cedo todas as manhãs. No entanto, ele desenhou os barcos lá e depois fez a pintura em casa.",
+        "creditos-imagem":"https://www.freepik.com/free-ai-image/marine-landscape-cartoon-style-with-boat_137490026.htm#fromView=search&page=1&position=10&uuid=bf665b55-2b77-488a-bbba-021203f365aa&new_detail=true"
+    }
+]
