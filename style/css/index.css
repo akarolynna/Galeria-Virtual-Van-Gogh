@@ -2,18 +2,21 @@
 
 /*Titulo*/
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IE+Guides&display=swap');
 
 * {
     font-family: 'Courier New', Courier, monospace;
 }
 
 .menuGaleriaArtes {
+    background-color: #000638;
     width: 100%;
     height: 90px;
     padding: 10px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    /* border-bottom: 0.2px solid #ffffff; */
 }
 
 .menuGaleriaArtes .divTitulo {
@@ -23,13 +26,17 @@
 
 .menuGaleriaArtes .divTitulo a {
     font-size: 2rem;
-    color: #000638;
+    /* color: #000638; */
+    color: white;
 }
 
 .menuGaleriaArtes .divLinks a {
-    color: #000638;
+    /* color: #000638; */
+    color: white;
     transition: all 0.5s ease;
 }
+
+
 
 .menuGaleriaArtes .divLinks a:hover {
     background-color: #ffb300;
@@ -102,4 +109,55 @@
 .fotosCards img:hover {
     transform: translateY(-12px);
     box-shadow: 0px 25px 40px rgba(0, 0, 0, 0.2), 0px 10px 15px rgba(0, 0, 0, 0.3);
+}
+
+.containner-pintor {
+    margin-top: 80px;
+    margin-left: 40px;
+    width: 90%;
+}
+
+.containner-pintor .grid {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-template-rows: 100%;
+    margin-top: 35px;
+
+}
+
+.containner-pintor .video-container {
+    grid-column: 1 /2;
+    grid-row: 1;
+}
+
+.containner-pintor h1 {
+    text-align: center;
+    color: #000638;
+    font-weight: bold;
+}
+
+
+.containner-pintor .direitosAutorais p {
+    font-size: 14px;
+    margin-top: 10px;
+    width: 360px;
+    color: #777;
+    text-align: center;
+}
+
+.containner-pintor .video-container video {
+    height: 600px;
+
+}
+
+.containner-pintor .goghApresentacao {
+    grid-column: 2 /2;
+    grid-row: 1;
+}
+
+.containner-pintor .goghApresentacao p {
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+    line-height: 2.3;
 }
