@@ -189,24 +189,37 @@
 
 }
 
-.containner-obras-de-arte .divCards{
-    display: flex;
-    justify-content: space-evenly;
-    grid-gap: 20px;
-    margin-top: 40px;
-}
-.containner-obras-de-arte .card {
-    width: 400px;
-    height:360px;
+.rodape-creditos{
     box-sizing: border-box;
-    border-radius: 16px;
+    padding: 20px;
+    margin-left: 2%;
+    margin-top: 23px;
 }
-.containner-obras-de-arte .card img{
-    height: 156px;
-    object-fit: cover;
-    object-position: top;
-    padding: 13px;
-    /* border-radius: 16px; */
-    
-    
+.rodape-creditos .copyRight{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.rodape-creditos .copyRight p{
+    font-weight: bold;
+
+}
+
+.rodape-creditos .copyRight{
+    border-bottom: 1px solid #000638;
+    margin-right:5%;
+}
+
+.rodape-creditos .atencao{
+    margin-top:20px;
+    color: rgb(246, 0, 0);
+    font-weight: bold;
+}
+
+.rodape-creditos .textos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+    margin-bottom: 5px;
 }
